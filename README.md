@@ -1,7 +1,7 @@
 ## Olá! Eu sou Juscelino Moreira
 <div align="rigth">
 
- <img width="500" src="https://giphy.com/embed/3NtY188QaxDdC"/>
+ <img width="500"src="https://giphy.com/embed/3NtY188QaxDdC"/>
  
  </div>
  
