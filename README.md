@@ -1,7 +1,7 @@
-## Olá! Eu sou Kamila Sales
-
+## Olá! Eu sou Juscelino Moreira
 <div align="rigth">
- <img width="500" src="https://user-images.githubusercontent.com/85952863/173442898-a18d156c-f054-46ba-a517-dd2c5cc704c0.gif " />
+
+ <img width="500" src="https://giphy.com/embed/3NtY188QaxDdC"/>
  
  </div>
  
