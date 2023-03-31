@@ -1,9 +1,9 @@
 ## Olá! Eu sou Juscelino Moreira
 <div align="rigth">
 
- <img width="500" src="[https://gifer.com/embed/94Lm](https://giphy.com/embed/McUYHXzUDfWLIHiBhN)"/>
+ <img width="500" src="https://gifer.com/embed/94Lm](https://giphy.com/embed/McUYHXzUDfWLIHiBhN">
 
- 
+ https://giphy.com/embed/McUYHXzUDfWLIHiBhN
  </div>
  
  
