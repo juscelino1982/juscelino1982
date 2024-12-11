@@ -1,4 +1,4 @@
-## Olá! Eu sou Juscelino Moreira  
+## My name is Juscelino Moreira  
 Pode parecer engraçado apresentar-me assim.
 <div align="rigth">
 
